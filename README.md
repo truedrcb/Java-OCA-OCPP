@@ -26,7 +26,7 @@ https://github.com/ChargeTimeEU/Java-OCA-OCPP/wiki/External-interface-change-fro
 Modules
 =======
 
-- `OCCP-J` - Implementation of Open Charge-Point Protocols OCPP-J.
+- `OCCP-J` - Implementation of Open Charge-Point Protocols OCPP-J (OCPP via JSON over WebSocket).
 - `ocpp-common` - Implementation of Open Charge-Point Protocol common library.
 - `ocpp-v1_6` - Implementation of Open Charge-Point Protocol version 1.6.
 - `ocpp-v1_6-example` - JSON and SOAP Client/Server examples.
