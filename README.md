@@ -23,6 +23,18 @@ See the project plan here:
 !! If you have an implementation for 0.4 or earlier, please read:  
 https://github.com/ChargeTimeEU/Java-OCA-OCPP/wiki/External-interface-change-from-version-0.4-to-0.5
 
+Modules
+=======
+
+- `OCCP-J` - Implementation of Open Charge-Point Protocols OCPP-J.
+- `ocpp-common` - Implementation of Open Charge-Point Protocol common library.
+- `ocpp-v1_6` - Implementation of Open Charge-Point Protocol version 1.6.
+- `ocpp-v1_6-example` - JSON and SOAP Client/Server examples.
+- `ocpp-v1_6-test` - Integration test of OCA OCPP version 1.6.
+- `ocpp-v2_0` - Implementation of Open Charge-Point Protocol version 2.0.
+- `ocpp-v2_0-test` - Integration test of OCA OCPP version 2.0.
+
+
 Dependencies
 ============
 
